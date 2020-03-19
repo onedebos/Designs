@@ -1,5 +1,5 @@
 # UI Designs
-This repo hold will hold some of my UI design work. 
+This repo hold holds some of my UI design work. 
 
 ## Authors
 
